@@ -1,0 +1,4 @@
+C:\Users\Shado\Desktop\run\RimWorld\Mods\NewQuests\Source\DungeonPack\DungeonPack\obj\Debug\DungeonPack.csproj.AssemblyReference.cache
+C:\Users\Shado\Desktop\run\RimWorld\Mods\NewQuests\Source\DungeonPack\DungeonPack\obj\Debug\DungeonPack.csproj.CoreCompileInputs.cache
+C:\Users\Shado\Desktop\run\RimWorld\Mods\NewQuests\Assemblies\DungeonPack.dll
+C:\Users\Shado\Desktop\run\RimWorld\Mods\NewQuests\Source\DungeonPack\DungeonPack\obj\Debug\DungeonPack.dll
